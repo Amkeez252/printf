@@ -88,3 +88,21 @@ Function That Prints Decimal In Uppercase Hexadecimal.
 Function That Prints A String And Values Of Non-Printed Chars.
 
 /* Indetifier : %S */
+
+## print_unt.c
+
+Function That Prints An Unsigned Integer.
+
+/* Indetifier : %u */
+
+## print_rev.c
+
+Function That Writes The String To Stdout In Reverse.
+
+/* Indetifier : %r */
+
+## print_rot.c
+
+Function That Writes The String To Stdout In Rot13.
+
+/* Indetifier : %R */
