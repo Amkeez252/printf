@@ -22,3 +22,5 @@ For understand how it works we can use this flow chart.
 
 ![](flowchart.jpn2.jpg)
 
+# usage 
+For useit you need all the files in the repository.
