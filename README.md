@@ -106,3 +106,21 @@ Function That Writes The String To Stdout In Reverse.
 Function That Writes The String To Stdout In Rot13.
 
 /* Indetifier : %R */
+
+## print_add.c
+
+Function That Prints The Address Of An Input Variable.
+
+/* Indetifier : %p */
+
+## print_long_oct.c
+
+Function That Prints Long Decimal Number In Octal.
+
+/* Indetifier : %lo */
+
+## print_long_hex.c
+
+Function That Prints Long Decimal Number In Hexadecimal.
+
+/* Indetifier : %lx */
