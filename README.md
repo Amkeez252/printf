@@ -124,3 +124,27 @@ Function That Prints Long Decimal Number In Octal.
 Function That Prints Long Decimal Number In Hexadecimal.
 
 /* Indetifier : %lx */
+
+## print_long_int.c
+
+Function That Prints A Long Integer.
+
+/* Indetifier : %li */
+
+## print_long_upx.c
+
+Function That Prints A Long Decimal In Uppercase Hexadecimal.
+
+/* Indetifier : %lX */
+
+## print_long_unt.c
+
+Function That Prints A Long Unsigned Integer.
+
+/* Indetifier : %lu */
+
+## print_short_oct.c
+
+Function That Prints Short Decimal Number In Octal.
+
+/* Indetifier : %ho */
