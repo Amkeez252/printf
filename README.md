@@ -24,3 +24,5 @@ For understand how it works we can use this flow chart.
 
 # usage 
 For useit you need all the files in the repository.
+
+## File Functions
