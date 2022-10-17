@@ -11,11 +11,7 @@ In this project we made the tasks 0 - 2 of mandatory part, and the 14 advanced t
 
 The first task develop the function as such, only with the c, s and % specifiers. Then, the next task, add more specifiers.
 
-
-
 We used a principal function called _printf() for give the string or specifiers to other function called check_format. In this second function search wich specifier is and and send it to other funtion that prints the correspondent argument.
-
-
 
 For understand how it works we can use this flow chart.
 ![](flowchart.jpn.jpg)
@@ -27,35 +23,25 @@ For useit you need all the files in the repository.
 
 # File Functions
 
-## _printf.c
+### _printf.c
 Own Printf Function That Performs Formatted 
 Output Conversion And Print Data.
-## main.h
+### main.h
 Header File Where All Prototypes Are Saved.
-## get_print_func.c
+### get_print_func.c
 Pointer To A Function That Selects The 
 Correct Function To Perform The Operation.
-## print_chr.c
+### print_chr.c
 Function That Prints The Buffer.
-
-## handl_buf.c
-
+### handl_buf.c
 Function That Concatenates The Buffer Characters.
-
-## print_chr.c
-
+### print_chr.c
 Function That Writes The Character C To Stdout.
-
 /* Indetifier : %c */
-
-## print_str.c
-
+### print_str.c
 Function That Writes The String To Stdout.
-
 /* Indetifier : %s */
-
-## print_int.c
-
+### print_int.c
 Function That Prints An Integer.
 
 /* Indetifier : %i or %d */
