@@ -28,5 +28,8 @@ For useit you need all the files in the repository.
 # File Functions
 
 ## _printf.c
-Own Printf Function That Performs Formatted Output Conversion And Print Data.
+Own Printf Function That Performs Formatted 
+Output Conversion And Print Data.
+## main.h
+
 ## print_chr.c
