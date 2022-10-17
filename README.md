@@ -27,4 +27,6 @@ For useit you need all the files in the repository.
 
 # File Functions
 
+## _printf.c
+
 ## print_chr.c
