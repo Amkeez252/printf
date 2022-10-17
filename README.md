@@ -167,3 +167,8 @@ Function That Prints An Integer Begining With 0 And u.
 
 /* Indetifier : % i */
 
+## ev_print_func.c
+
+Function That Returns The Amount Of Indetifiers.
+
+# Author's 
