@@ -18,6 +18,7 @@ We used a principal function called _printf() for give the string or specifiers 
 
 
 For understand how it works we can use this flow chart.
+![](flowchart.jpn.jpg)
 
-
+![](flowchart.jpn2.jpg)
 
