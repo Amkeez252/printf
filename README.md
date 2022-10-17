@@ -158,3 +158,8 @@ Function That Prints An Integer Begining With 0 And u.
 Function That Returns The Amount Of Indetifiers.
 
 # Author's 
+ 
+AUWAL ABDULMALIK (auwalamalik@gmail.com),
+DAUDA SHERIFFDEEN DAYO (s.dayo36@yahoo.com)
+
+#End
