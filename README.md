@@ -54,3 +54,20 @@ Function That Writes The String To Stdout.
 
 /* Indetifier : %s */
 
+## print_int.c
+
+Function That Prints An Integer.
+
+/* Indetifier : %i or %d */
+
+## print_bnr.c
+
+Function That Prints Decimal In Binary.
+
+/* Indetifier : %b */
+
+## print_oct.c
+
+Function That Prints Decimal In Octal.
+
+/* Indetifier : %o */
