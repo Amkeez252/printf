@@ -148,3 +148,22 @@ Function That Prints A Long Unsigned Integer.
 Function That Prints Short Decimal Number In Octal.
 
 /* Indetifier : %ho */
+
+## print_num_upx.c
+
+Function That Prints A Number In Uppercase Hexadecimal.
+
+/* Indetifier : %#X */
+
+## print_plus_int.c
+
+Function That Prints An Integer With Plus Symbol.
+
+/* Indetifier : %+i */
+
+## print_space_int.c
+
+Function That Prints An Integer Begining With 0 And u.
+
+/* Indetifier : % i */
+
