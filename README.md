@@ -36,3 +36,21 @@ Header File Where All Prototypes Are Saved.
 Pointer To A Function That Selects The 
 Correct Function To Perform The Operation.
 ## print_chr.c
+Function That Prints The Buffer.
+
+## handl_buf.c
+
+Function That Concatenates The Buffer Characters.
+
+## print_chr.c
+
+Function That Writes The Character C To Stdout.
+
+/* Indetifier : %c */
+
+## print_str.c
+
+Function That Writes The String To Stdout.
+
+/* Indetifier : %s */
+
