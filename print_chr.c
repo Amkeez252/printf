@@ -17,3 +17,4 @@ int print_chr(va_list arguments, char *buf, unsigned int ibuf)
 
 	return (1);
 
+}
