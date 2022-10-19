@@ -42,3 +42,4 @@ int prinlhex(va_list arguments, char *buf, unsigned int ibuf)
 	free(hexadecimal);
 	return (count);
 
+}
