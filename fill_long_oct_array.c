@@ -25,4 +25,4 @@ char *fill_long_oct_array(char *bnr, char *oct)
 		oct[ioct] = op + '0';
 	}
 	return (oct);
-
+}
