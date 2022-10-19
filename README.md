@@ -23,25 +23,25 @@ For useit you need all the files in the repository.
 
 # File Functions
 
-### _printf.c
+## _printf.c
 Own Printf Function That Performs Formatted 
 Output Conversion And Print Data.
-### main.h
+## main.h
 Header File Where All Prototypes Are Saved.
-### get_print_func.c
+## get_print_func.c
 Pointer To A Function That Selects The 
 Correct Function To Perform The Operation.
-### print_chr.c
+## print_chr.c
 Function That Prints The Buffer.
-### handl_buf.c
+## handl_buf.c
 Function That Concatenates The Buffer Characters.
-### print_chr.c
+## print_chr.c
 Function That Writes The Character C To Stdout.
 /* Indetifier : %c */
-### print_str.c
+## print_str.c
 Function That Writes The String To Stdout.
 /* Indetifier : %s */
-### print_int.c
+## print_int.c
 Function That Prints An Integer.
 
 /* Indetifier : %i or %d */
@@ -150,7 +150,14 @@ Function That Prints A Short Decimal In Uppercase Hexadecimal.
 Function That Prints A Short Unsigned Integer.
 
 /* Indetifier : %hu */
+## print_num_hex.c
+Function That Print A Number In Hexadecimal Begining With 0 And x.
 
+/* Indetifier : %#x */
+## print_num_oct.c
+Function That Prints A Number In Octal Begining With 0 And o.
+
+/* Indetifier : %#o */
 ## print_num_upx.c
 
 Function That Prints A Number In Uppercase Hexadecimal.
