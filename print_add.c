@@ -51,3 +51,4 @@ int print_add(va_list arguments, char *buf, unsigned int ibuf)
 	free(hexadecimal);
 	return (count + 2);
 
+}
