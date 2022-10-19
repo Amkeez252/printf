@@ -40,3 +40,4 @@ int print_bnr(va_list arguments, char *buf, unsigned int ibuf)
 	free(binary);
 	return (count);
 
+}
