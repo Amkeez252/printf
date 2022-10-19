@@ -10,6 +10,7 @@
  */
 char *fill_binary_array(char *binary, long int int_in, int isneg, int limit)
 {
+
 	int i;
 
 	for (i = 0; i < limit; i++)
