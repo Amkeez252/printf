@@ -30,3 +30,4 @@ int print_rev(va_list arguments, char *buf, unsigned int ibuf)
 	}
 	return (i);
 
+}
